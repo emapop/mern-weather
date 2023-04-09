@@ -25,3 +25,4 @@ yarn-error.log*
 
 # visual studios configurations
 .vs
+node_modules
